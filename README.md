@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kadir Çakıroğlu!
+# 👋 Hi There, I'm Kadir Çakıroğlu!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Kadir%20Çakıroğlu&fontSize=48&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20%7C%20Backend%20Developer%20(.NET)&descFontSize=20&descAlignY=60" width="100%"/>
